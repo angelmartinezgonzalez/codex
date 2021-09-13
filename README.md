@@ -1,2 +1,2 @@
 # codex
-Ide para Scala, Delphi Script, Python, R
+Scripting Language kind Delphi Script, Python, R
