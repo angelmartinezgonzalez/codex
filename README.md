@@ -1,2 +1,2 @@
 # codex
-Scripting Language kind Delphi Script, Python, R
+Scripting Language kind Delphi Script, Python, R, JavaScript
